@@ -1,0 +1,30 @@
+Project: Library Management System
+
+Purpose:
+The system manages books, members, and borrowing activities.
+
+Functional Requirements:
+
+* Member registration
+* Book catalog management
+* Book search
+* Book issue and return
+* Fine calculation
+* Reservation management
+* Report generation
+
+Non-Functional Requirements:
+
+* Reliable database storage
+* Fast search functionality
+* User-friendly interface
+* Data security
+
+User Stories:
+
+* As a member, I can search books.
+* As a librarian, I can issue books.
+* As an admin, I can generate reports.
+
+Scope:
+Automate library operations and improve book management.

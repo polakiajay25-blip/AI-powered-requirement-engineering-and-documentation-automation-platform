@@ -1,0 +1,31 @@
+Project: E-Commerce Platform
+
+Purpose:
+The system enables online buying and selling of products.
+
+Functional Requirements:
+
+* User registration and login
+* Product catalog management
+* Product search and filtering
+* Shopping cart
+* Order placement
+* Online payment
+* Order tracking
+* Review and ratings
+
+Non-Functional Requirements:
+
+* Secure payment gateway integration
+* Fast search response
+* Scalability during peak traffic
+* Mobile responsiveness
+
+User Stories:
+
+* As a customer, I can purchase products online.
+* As a seller, I can manage inventory.
+* As an admin, I can manage users and products.
+
+Scope:
+Provide a complete online shopping experience.

@@ -1,0 +1,31 @@
+Project: Food Delivery System
+
+Purpose:
+The system connects customers, restaurants, and delivery partners.
+
+Functional Requirements:
+
+* Customer registration and login
+* Restaurant listing
+* Menu management
+* Food search
+* Order placement
+* Online payment
+* Real-time order tracking
+* Delivery partner management
+
+Non-Functional Requirements:
+
+* Real-time updates
+* High availability
+* Secure payments
+* Fast response time
+
+User Stories:
+
+* As a customer, I can order food online.
+* As a restaurant owner, I can update menus.
+* As a delivery partner, I can manage deliveries.
+
+Scope:
+Provide efficient food ordering and delivery services.

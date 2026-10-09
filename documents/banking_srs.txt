@@ -1,0 +1,31 @@
+Project: Banking Management System
+
+Purpose:
+The system provides online banking services for customers and administrators.
+
+Functional Requirements:
+
+* Customer registration and login
+* Account management
+* Balance inquiry
+* Fund transfer
+* Transaction history
+* Loan management
+* Beneficiary management
+* Account statement generation
+
+Non-Functional Requirements:
+
+* End-to-end encryption
+* Multi-factor authentication
+* Scalability
+* 99.9% availability
+
+User Stories:
+
+* As a customer, I can transfer funds securely.
+* As a customer, I can view transaction history.
+* As an admin, I can manage customer accounts.
+
+Scope:
+Provide secure digital banking services.

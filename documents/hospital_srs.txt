@@ -1,0 +1,32 @@
+Project: Hospital Management System
+
+Purpose:
+The system manages hospital operations including patient registration, appointments, doctors, billing, and medical records.
+
+Functional Requirements:
+
+* Patient registration and login
+* Doctor management
+* Appointment scheduling
+* Electronic medical records
+* Billing and payment processing
+* Laboratory report management
+* Prescription management
+* Admin dashboard
+
+Non-Functional Requirements:
+
+* Secure patient data storage
+* Role-based access control
+* High availability
+* Fast response time
+* Data backup and recovery
+
+User Stories:
+
+* As a patient, I can book appointments online.
+* As a doctor, I can view patient history.
+* As an admin, I can manage doctors and staff.
+
+Scope:
+The system digitizes hospital operations and improves patient management.
